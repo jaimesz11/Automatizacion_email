@@ -15,7 +15,7 @@ d1 = hoy.strftime("%d-%m-%Y")
 remitente = 'correo_remitente@gmail.com'
 destinatarios = ['correo_destino@gmail.com']
 asunto = 'Hucha ' + d1
-cuerpo = '¡Buenas!,' + '\n' + '\n' + '\n' 'Este es el recordatorio de poner tu parte de la hucha!' + '\n' + 'Que pases un buen día :)'
+cuerpo = '¡Buenas!' + '\n' + 'Este es un correo de prueba'
 
 # Datos de correo
 cuenta = 'correo@gmail.com'
