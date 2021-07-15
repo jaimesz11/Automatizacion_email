@@ -1,4 +1,4 @@
-# Automatizacion email
+# Automatización email
 
 Proyecto de automatización de emails con Python.
 
