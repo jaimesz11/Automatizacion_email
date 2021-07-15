@@ -1,2 +1,5 @@
 # Automatizacion_email
-Proyecto de automatización de correos para días concretos con Python
+Proyecto de automatización de emails para días concretos con Python. 
+
+
+
