@@ -24,6 +24,6 @@ Posteriormente, las pestañas que se deben rellenar como mínimo son la de **des
 
 ![creacion_tarea](https://github.com/jaimesz11/Automatizacion_email/blob/bf91eb8b54947d289a9446765488286b883fd4dc/Imagenes_para_explicacion/programadordetareas_accion.jpeg)
 
-Posteriormente a esto ya finalizaríamos pulsando en "aceptar". Sólo faltaría esperar los correos 
+Posteriormente a esto ya finalizaríamos pulsando en "aceptar". Sólo faltaría esperar los correos 😊🤓
 
 
